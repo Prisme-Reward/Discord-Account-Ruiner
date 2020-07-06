@@ -4,4 +4,4 @@ I created this program to test the new iLinked wrapper which asked me to do it. 
 # Features
 * User Info
 * Delete All Friend
-* Une autre sous-puce
+    * Une sous-puce
