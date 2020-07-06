@@ -24,3 +24,6 @@
 ----------------
 # Login Panel
 ![Simplon.co](https://cdn.discordapp.com/attachments/728627761320820756/729694098503630908/unknown.png)
+----------------
+# Hub
+![Simplon.co](https://cdn.discordapp.com/attachments/728627761320820756/729694548422295612/unknown.png)
