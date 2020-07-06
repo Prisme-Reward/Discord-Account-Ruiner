@@ -1,4 +1,4 @@
-# Discord Account Ruiner
+# Discord Account Ruiner ![Markdown Here logo](https://cdn.discordapp.com/attachments/698652175882125405/726843684083204156/T-3Fo_stan-ConvertImage.png) 
 
 ## I created this program to test the new iLinked wrapper which asked me to do it. It is for educational purposes!
 ----------------
